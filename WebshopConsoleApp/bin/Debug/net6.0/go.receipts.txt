@@ -1,0 +1,7 @@
+Receipt for go:
+- Product 2 - $20
+Total: $20
+Receipt for go:
+- Product 2 - $20
+- Product 2 - $20
+Total: $40

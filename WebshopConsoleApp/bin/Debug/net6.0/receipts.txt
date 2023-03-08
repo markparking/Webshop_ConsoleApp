@@ -1,0 +1,63 @@
+Receipt for Johnny:
+- Product 3 - $30
+- Product 3 - $30
+Total: $60
+Receipt for Hona:
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+Total: $90
+Receipt for Hona:
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+Total: $180
+Receipt for Hans:
+- Product 3 - $30
+- Product 3 - $30
+Total: $60
+Receipt for Hans:
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+Total: $120
+Receipt for J:
+- Product 3 - $30
+Total: $30
+Receipt for J:
+- Product 3 - $30
+- Product 3 - $30
+Total: $60
+Receipt for :
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+Total: $150
+Receipt for :
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+- Product 3 - $30
+Total: $300
+Receipt for :
+- Product 1 - $10
+- Product 1 - $10
+Total: $20
+Receipt for :
+- Product 1 - $10
+- Product 1 - $10
+- Product 1 - $10
+- Product 1 - $10
+Total: $40
